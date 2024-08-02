@@ -1,0 +1,35 @@
+{
+  "name": "gambit",
+  "version": "1.0.0",
+  "description": "Discord gambling bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "'Marius <Staugaitis.Marius@Gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.3.0",
+    "@napi-rs/canvas": "^0.1.53",
+    "cairo": "0.1.0-alpha.3",
+    "canvas": "^2.11.2",
+    "canvas-constructor": "^7.0.2",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "imgur-uploader": "^4.2.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "node": "^20.16.0",
+    "parse-ms": "^4.0.0",
+    "querystring": "^0.2.0",
+    "r2": "^2.0.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

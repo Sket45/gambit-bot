@@ -1,0 +1,30 @@
+{
+    "filterWords" : ["love","cheese","cat","dog"],
+    "love": [
+        "❤️","love","lovely","heart","hearth","aww",
+        "awww","awwww","awwwww","awwwwww","awwwwwww",
+        "awwwwwwwww","awwwwwwwwww","oww",
+        "owww","owwww","owwwww","owwwwww","owwwwwww",
+        "owwwwwwwww","owwwwwwwwww","oow",
+        "ooow","oooow","ooooow","oooooow","ooooooow",
+        "ooooooow","ooooooooow"
+    ],
+    "cheese": [
+        "🧀","cheese","sheese","shees","cheezy","cheeezy",
+        "cheeeseyy","cheeeseyyy","cheeesyy",
+        "cheese","sheese","shees","cheezy","cheeezy",
+        "cheeeseyy","cheeeseyyy","cheeeesy",
+        "cheesyyy","cheesyy","cheesiest","cheeziest"
+    ],
+    "cat" : [
+        "🐱","cat","kat","kitty","kitten","kittys",
+        "cats","neko","nekochan","neko-chan","katt",
+        "huskatt","katte","tamkatt","kattefamilien","kattedyr",
+        "purr","meow","pur","purrr","purrrr","purrrrr","purrrrrr","purrrrrrr","purrrrrrrr","purrrrrrrrrr",
+        "🐈","lion","😿","😻","🐈","🐈‍⬛","😽","😾","🙀","😸","😼🐈‍⬛","kats","katts"
+    ],
+    "dog" : [
+        "🐶","🐕","puppies","puppy","pup","doggys","doge","doggy","dog",
+        "🐕‍🦺","🦮"
+    ]
+}
